@@ -81,3 +81,4 @@ useful information.
 .. |logo| image:: logo.svg
     :width: 24pt
     :height: 24pt
+[![Run on Repl.it](https://repl.it/badge/github/sanatmorgh/Telethon)](https://repl.it/github/sanatmorgh/Telethon)
